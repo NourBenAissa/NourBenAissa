@@ -1,4 +1,4 @@
-![Banner](https://github.com/NourBenAissa/NourBenAissa/blob/main/banner.gif?raw=true)
+![Banner](https://github.com/NourBenAissa/NourBenAissa/blob/main/.gif?raw=true)
 
 
 <h1 align="center">Hello!
