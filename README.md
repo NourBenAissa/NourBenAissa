@@ -38,12 +38,16 @@
 [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-black?style=for-the-badge&logo=tailwind-css)](https://github.com/NourBenAissa)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/NourBenAissa)
 [![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dot-net)](https://github.com/NourBenAissa)
-
+[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/NourBenAissa)
+[![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/NourBenAissa)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/NourBenAissa)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/NourBenAissa)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/NourBenAissa)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/NourBenAissa)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/NourBenAissa)
+
 
 ### ORM
 [![Prisma ORM](https://img.shields.io/badge/prisma%20orm-black?style=for-the-badge&logo=prisma)](https://github.com/NourBenAissa)
